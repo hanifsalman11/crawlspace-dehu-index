@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "dehu_name": "AlorAir Sentinel HD55 / HD55S (55 Pint AHAM / 120 Pint Max)",
+    "slug": "alorair-sentinel-hd55-hd55s-55-pint-aham-120-pint-max-dehumidifier-vapor-barrier-calculator",
+    "title": "AlorAir Sentinel HD55 / HD55S (55 Pint AHAM / 120 Pint Max) Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (55 PPD AHAM / 39 PPD DOE / 120 PPD max), 12-Mil / 20-Mil Reinforced vapor barrier area (2,250 sq ft w/ wall & seam overlap), and 330 ft butyl tape for AlorAir Sentinel HD55 / HD55S (55 Pint AHAM / 120 Pint Max).",
+    "sqft": 1300,
+    "aham_p": 55,
+    "bar_sqft": 2250,
+    "date": "2026-11-11"
+  },
+  {
+    "dehu_name": "AlorAir Sentinel HDi65S Wi-Fi (65 Pint AHAM w/ Built-In Pump)",
+    "slug": "alorair-sentinel-hdi65s-wi-fi-65-pint-aham-w-built-in-pump-dehumidifier-vapor-barrier-calculator",
+    "title": "AlorAir Sentinel HDi65S Wi-Fi (65 Pint AHAM w/ Built-In Pump) Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (65 PPD AHAM / 46 PPD DOE / 130 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for AlorAir Sentinel HDi65S Wi-Fi (65 Pint AHAM w/ Built-In Pump).",
+    "sqft": 1800,
+    "aham_p": 65,
+    "bar_sqft": 2990,
+    "date": "2026-11-11"
+  },
+  {
+    "dehu_name": "AlorAir Sentinel HD90 / HDi90 (90 Pint AHAM / 198 Pint Max)",
+    "slug": "alorair-sentinel-hd90-hdi90-90-pint-aham-198-pint-max-dehumidifier-vapor-barrier-calculator",
+    "title": "AlorAir Sentinel HD90 / HDi90 (90 Pint AHAM / 198 Pint Max) Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (90 PPD AHAM / 64 PPD DOE / 198 PPD max), 20-Mil Heavy Encapsulation vapor barrier area (4,270 sq ft w/ wall & seam overlap), and 560 ft butyl tape for AlorAir Sentinel HD90 / HDi90 (90 Pint AHAM / 198 Pint Max).",
+    "sqft": 2600,
+    "aham_p": 90,
+    "bar_sqft": 4270,
+    "date": "2026-11-11"
+  }
+]

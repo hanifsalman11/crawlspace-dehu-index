@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CrawlSpaceDehuIndex — Crawl Space Dehumidifier Pints/Day & 20-Mil Vapor Barrier Calculator (2026)</title>
+  <meta name="description" content="Calculate exact crawl space and basement commercial dehumidifier capacity (AHAM vs DOE Pints/Day), 12-mil and 20-mil reinforced vapor barrier roll square footage (with wall and overlap math), and butyl seam tape length for AlorAir, AprilAire, and Santa Fe units.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/crawlspace-dehu-index/">
+  <link rel="alternate" type="application/rss+xml" title="CrawlSpaceDehuIndex RSS Feed" href="https://hanifsalman11.github.io/crawlspace-dehu-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-teal-500 text-slate-950 px-2 py-0.5 rounded font-black">CRAWLSPACE</span>DehuIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Crawl%2BSpace%2BDehumidifier%2BAlorAir%2BSentinel%2BHD55%2BHD90%2B20%2BMil%2BVapor%2BBarrier&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-teal-500 hover:bg-teal-400 text-slate-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Crawl Space Dehumidifiers & 20-Mil Vapor Barriers on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Crawl Space Dehumidifier Pint & 20-Mil Vapor Barrier Database</h1>
+      <p class="text-slate-400 mt-3 text-base sm:text-lg">Select your commercial dehumidifier model or crawl space square footage below to calculate AHAM vs. DOE Pints Per Day, 12-mil/20-mil encapsulation liner rolls (including walls, piers & 15% seam overlaps), and butyl tape footage.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search dehumidifier or crawl space size (e.g. AlorAir Sentinel HD55, HD90, AprilAire E070, Santa Fe, 1500 Sq Ft, 20-Mil Liner...)" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-teal-500">
+      </div>
+    </div>
+
+    <div id="dhGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="alorair-sentinel-hd90-hdi90-90-pint-aham-198-pint-max-dehumidifier-vapor-barrier-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-teal-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-teal-500 text-slate-950 px-2.5 py-0.5 rounded">90 PPD AHAM (2,600 ft²)</span>
+            <span class="text-xs text-slate-400">Liner: 4,270 ft²</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-teal-400 transition">AlorAir Sentinel HD90 / HDi90 (90 Pint AHAM / 198 Pint Max)</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact dehumidifier capacity (90 PPD AHAM / 64 PPD DOE / 198 PPD max), 20-Mil Heavy Encapsulation vapor barrier area (4,270 sq ft w/ wall & seam overlap), and 560 ft butyl tape for AlorAir Sentinel HD90 / HDi90 (90 Pint AHAM / 198 Pint Max).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-teal-400">Calculate Pints/Day & 20-Mil Liner →</span>
+        </a>
+        <a href="alorair-sentinel-hdi65s-wi-fi-65-pint-aham-w-built-in-pump-dehumidifier-vapor-barrier-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-teal-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-teal-500 text-slate-950 px-2.5 py-0.5 rounded">65 PPD AHAM (1,800 ft²)</span>
+            <span class="text-xs text-slate-400">Liner: 2,990 ft²</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-teal-400 transition">AlorAir Sentinel HDi65S Wi-Fi (65 Pint AHAM w/ Built-In Pump)</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact dehumidifier capacity (65 PPD AHAM / 46 PPD DOE / 130 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for AlorAir Sentinel HDi65S Wi-Fi (65 Pint AHAM w/ Built-In Pump).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-teal-400">Calculate Pints/Day & 20-Mil Liner →</span>
+        </a>
+        <a href="alorair-sentinel-hd55-hd55s-55-pint-aham-120-pint-max-dehumidifier-vapor-barrier-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-teal-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-teal-500 text-slate-950 px-2.5 py-0.5 rounded">55 PPD AHAM (1,300 ft²)</span>
+            <span class="text-xs text-slate-400">Liner: 2,250 ft²</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-teal-400 transition">AlorAir Sentinel HD55 / HD55S (55 Pint AHAM / 120 Pint Max)</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact dehumidifier capacity (55 PPD AHAM / 39 PPD DOE / 120 PPD max), 12-Mil / 20-Mil Reinforced vapor barrier area (2,250 sq ft w/ wall & seam overlap), and 330 ft butyl tape for AlorAir Sentinel HD55 / HD55S (55 Pint AHAM / 120 Pint Max).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-teal-400">Calculate Pints/Day & 20-Mil Liner →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500">
+    <p>© 2026 CrawlSpaceDehuIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('dhGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
