@@ -58,5 +58,35 @@
     "aham_p": 70,
     "bar_sqft": 3280,
     "date": "2026-11-11"
+  },
+  {
+    "dehu_name": "AprilAire E080 (80 Pint AHAM) Whole-House & Crawl Space",
+    "slug": "aprilaire-e080-80-pint-aham-whole-house-crawl-space-dehumidifier-vapor-barrier-calculator",
+    "title": "AprilAire E080 (80 Pint AHAM) Whole-House & Crawl Space Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (80 PPD AHAM / 57 PPD DOE / 155 PPD max), 20-Mil String-Reinforced vapor barrier area (3,970 sq ft w/ wall & seam overlap), and 530 ft butyl tape for AprilAire E080 (80 Pint AHAM) Whole-House & Crawl Space.",
+    "sqft": 2400,
+    "aham_p": 80,
+    "bar_sqft": 3970,
+    "date": "2026-11-12"
+  },
+  {
+    "dehu_name": "AprilAire E100 (100 Pint AHAM) High-Capacity Dehumidifier",
+    "slug": "aprilaire-e100-100-pint-aham-high-capacity-dehumidifier-dehumidifier-vapor-barrier-calculator",
+    "title": "AprilAire E100 (100 Pint AHAM) High-Capacity Dehumidifier Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (100 PPD AHAM / 71 PPD DOE / 195 PPD max), 20-Mil String-Reinforced vapor barrier area (4,850 sq ft w/ wall & seam overlap), and 630 ft butyl tape for AprilAire E100 (100 Pint AHAM) High-Capacity Dehumidifier.",
+    "sqft": 3000,
+    "aham_p": 100,
+    "bar_sqft": 4850,
+    "date": "2026-11-12"
+  },
+  {
+    "dehu_name": "AprilAire E130 (130 Pint AHAM) Estate Basement/Crawl Space",
+    "slug": "aprilaire-e130-130-pint-aham-estate-basementcrawl-space-dehumidifier-vapor-barrier-calculator",
+    "title": "AprilAire E130 (130 Pint AHAM) Estate Basement/Crawl Space Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (130 PPD AHAM / 92 PPD DOE / 240 PPD max), 20-Mil Commercial Liner vapor barrier area (5,990 sq ft w/ wall & seam overlap), and 750 ft butyl tape for AprilAire E130 (130 Pint AHAM) Estate Basement/Crawl Space.",
+    "sqft": 3800,
+    "aham_p": 130,
+    "bar_sqft": 5990,
+    "date": "2026-11-12"
   }
 ]
