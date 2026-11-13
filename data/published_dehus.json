@@ -178,5 +178,35 @@
     "aham_p": 90,
     "bar_sqft": 4410,
     "date": "2026-11-13"
+  },
+  {
+    "dehu_name": "Dri-Eaz Revolution LGR & PHD 200 Commercial Dehumidifier",
+    "slug": "dri-eaz-revolution-lgr-phd-200-commercial-dehumidifier-dehumidifier-vapor-barrier-calculator",
+    "title": "Dri-Eaz Revolution LGR & PHD 200 Commercial Dehumidifier Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (80 PPD AHAM / 57 PPD DOE / 175 PPD max), 20-Mil String-Reinforced vapor barrier area (4,560 sq ft w/ wall & seam overlap), and 600 ft butyl tape for Dri-Eaz Revolution LGR & PHD 200 Commercial Dehumidifier.",
+    "sqft": 2800,
+    "aham_p": 80,
+    "bar_sqft": 4560,
+    "date": "2026-11-13"
+  },
+  {
+    "dehu_name": "Little Giant VCMA-20ULS Condensate Pump + Dehumidifier Setup",
+    "slug": "little-giant-vcma-20uls-condensate-pump-dehumidifier-setup-dehumidifier-vapor-barrier-calculator",
+    "title": "Little Giant VCMA-20ULS Condensate Pump + Dehumidifier Setup Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 145 PPD max), 20-Ft Vertical Lift Drain vapor barrier area (3,280 sq ft w/ wall & seam overlap), and 460 ft butyl tape for Little Giant VCMA-20ULS Condensate Pump + Dehumidifier Setup.",
+    "sqft": 2000,
+    "aham_p": 70,
+    "bar_sqft": 3280,
+    "date": "2026-11-13"
+  },
+  {
+    "dehu_name": "1,000 Sq Ft Crawl Space Encapsulation & Dehumidifier Sizing",
+    "slug": "1000-sq-ft-crawl-space-encapsulation-dehumidifier-sizing-dehumidifier-vapor-barrier-calculator",
+    "title": "1,000 Sq Ft Crawl Space Encapsulation & Dehumidifier Sizing Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (55 PPD AHAM / 39 PPD DOE / 120 PPD max), 12-Mil / 20-Mil Vapor Barrier vapor barrier area (1,720 sq ft w/ wall & seam overlap), and 270 ft butyl tape for 1,000 Sq Ft Crawl Space Encapsulation & Dehumidifier Sizing.",
+    "sqft": 1000,
+    "aham_p": 55,
+    "bar_sqft": 1720,
+    "date": "2026-11-13"
   }
 ]
