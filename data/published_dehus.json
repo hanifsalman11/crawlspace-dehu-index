@@ -238,5 +238,35 @@
     "aham_p": 90,
     "bar_sqft": 4120,
     "date": "2026-11-14"
+  },
+  {
+    "dehu_name": "3,000 Sq Ft Large Crawl Space Encapsulation & Dehumidifier",
+    "slug": "3000-sq-ft-large-crawl-space-encapsulation-dehumidifier-dehumidifier-vapor-barrier-calculator",
+    "title": "3,000 Sq Ft Large Crawl Space Encapsulation & Dehumidifier Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (105 PPD AHAM / 75 PPD DOE / 215 PPD max), 20-Mil String-Reinforced vapor barrier area (4,850 sq ft w/ wall & seam overlap), and 630 ft butyl tape for 3,000 Sq Ft Large Crawl Space Encapsulation & Dehumidifier.",
+    "sqft": 3000,
+    "aham_p": 105,
+    "bar_sqft": 4850,
+    "date": "2026-11-14"
+  },
+  {
+    "dehu_name": "1,500 Sq Ft Damp Basement (8-Ft Ceiling) Dehumidifier Sizing",
+    "slug": "1500-sq-ft-damp-basement-8-ft-ceiling-dehumidifier-sizing-dehumidifier-vapor-barrier-calculator",
+    "title": "1,500 Sq Ft Damp Basement (8-Ft Ceiling) Dehumidifier Sizing Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 145 PPD max), 50% RH Mold-Stop Target vapor barrier area (2,640 sq ft w/ wall & seam overlap), and 380 ft butyl tape for 1,500 Sq Ft Damp Basement (8-Ft Ceiling) Dehumidifier Sizing.",
+    "sqft": 1500,
+    "aham_p": 70,
+    "bar_sqft": 2640,
+    "date": "2026-11-14"
+  },
+  {
+    "dehu_name": "2,200 Sq Ft Wet Basement (8-Ft Ceiling) Dehumidifier Sizing",
+    "slug": "2200-sq-ft-wet-basement-8-ft-ceiling-dehumidifier-sizing-dehumidifier-vapor-barrier-calculator",
+    "title": "2,200 Sq Ft Wet Basement (8-Ft Ceiling) Dehumidifier Sizing Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (90 PPD AHAM / 64 PPD DOE / 195 PPD max), 50% RH Mold-Stop Target vapor barrier area (3,680 sq ft w/ wall & seam overlap), and 500 ft butyl tape for 2,200 Sq Ft Wet Basement (8-Ft Ceiling) Dehumidifier Sizing.",
+    "sqft": 2200,
+    "aham_p": 90,
+    "bar_sqft": 3680,
+    "date": "2026-11-14"
   }
 ]
