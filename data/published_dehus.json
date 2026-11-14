@@ -208,5 +208,35 @@
     "aham_p": 55,
     "bar_sqft": 1720,
     "date": "2026-11-13"
+  },
+  {
+    "dehu_name": "1,500 Sq Ft Crawl Space Encapsulation & Dehumidifier Sizing",
+    "slug": "1500-sq-ft-crawl-space-encapsulation-dehumidifier-sizing-dehumidifier-vapor-barrier-calculator",
+    "title": "1,500 Sq Ft Crawl Space Encapsulation & Dehumidifier Sizing Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (65 PPD AHAM / 46 PPD DOE / 130 PPD max), 20-Mil String-Reinforced vapor barrier area (2,540 sq ft w/ wall & seam overlap), and 370 ft butyl tape for 1,500 Sq Ft Crawl Space Encapsulation & Dehumidifier Sizing.",
+    "sqft": 1500,
+    "aham_p": 65,
+    "bar_sqft": 2540,
+    "date": "2026-11-14"
+  },
+  {
+    "dehu_name": "2,000 Sq Ft Crawl Space Encapsulation & Dehumidifier Sizing",
+    "slug": "2000-sq-ft-crawl-space-encapsulation-dehumidifier-sizing-dehumidifier-vapor-barrier-calculator",
+    "title": "2,000 Sq Ft Crawl Space Encapsulation & Dehumidifier Sizing Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (75 PPD AHAM / 53 PPD DOE / 155 PPD max), 20-Mil String-Reinforced vapor barrier area (3,280 sq ft w/ wall & seam overlap), and 460 ft butyl tape for 2,000 Sq Ft Crawl Space Encapsulation & Dehumidifier Sizing.",
+    "sqft": 2000,
+    "aham_p": 75,
+    "bar_sqft": 3280,
+    "date": "2026-11-14"
+  },
+  {
+    "dehu_name": "2,500 Sq Ft Crawl Space Encapsulation & Dehumidifier Sizing",
+    "slug": "2500-sq-ft-crawl-space-encapsulation-dehumidifier-sizing-dehumidifier-vapor-barrier-calculator",
+    "title": "2,500 Sq Ft Crawl Space Encapsulation & Dehumidifier Sizing Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (90 PPD AHAM / 64 PPD DOE / 198 PPD max), 20-Mil String-Reinforced vapor barrier area (4,120 sq ft w/ wall & seam overlap), and 550 ft butyl tape for 2,500 Sq Ft Crawl Space Encapsulation & Dehumidifier Sizing.",
+    "sqft": 2500,
+    "aham_p": 90,
+    "bar_sqft": 4120,
+    "date": "2026-11-14"
   }
 ]
