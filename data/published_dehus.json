@@ -268,5 +268,35 @@
     "aham_p": 90,
     "bar_sqft": 3680,
     "date": "2026-11-14"
+  },
+  {
+    "dehu_name": "12-Mil vs 20-Mil Reinforced Crawl Space Vapor Barrier Roll",
+    "slug": "12-mil-vs-20-mil-reinforced-crawl-space-vapor-barrier-roll-dehumidifier-vapor-barrier-calculator",
+    "title": "12-Mil vs 20-Mil Reinforced Crawl Space Vapor Barrier Roll Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (65 PPD AHAM / 46 PPD DOE / 135 PPD max), Wall + Pier + 15% Overlap vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for 12-Mil vs 20-Mil Reinforced Crawl Space Vapor Barrier Roll.",
+    "sqft": 1800,
+    "aham_p": 65,
+    "bar_sqft": 2990,
+    "date": "2026-11-14"
+  },
+  {
+    "dehu_name": "50-Pint DOE (65°F) vs 70-Pint AHAM (80°F) Rating Conversion",
+    "slug": "50-pint-doe-65f-vs-70-pint-aham-80f-rating-conversion-dehumidifier-vapor-barrier-calculator",
+    "title": "50-Pint DOE (65°F) vs 70-Pint AHAM (80°F) Rating Conversion Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 135 PPD max), DOE vs AHAM Psychrometrics vapor barrier area (3,090 sq ft w/ wall & seam overlap), and 430 ft butyl tape for 50-Pint DOE (65°F) vs 70-Pint AHAM (80°F) Rating Conversion.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 3090,
+    "date": "2026-11-14"
+  },
+  {
+    "dehu_name": "Sealed vs Vented Dirt Crawl Space Moisture Load Comparison",
+    "slug": "sealed-vs-vented-dirt-crawl-space-moisture-load-comparison-dehumidifier-vapor-barrier-calculator",
+    "title": "Sealed vs Vented Dirt Crawl Space Moisture Load Comparison Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 145 PPD max), IRC R408.3 Unvented Code vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Sealed vs Vented Dirt Crawl Space Moisture Load Comparison.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-14"
   }
 ]
