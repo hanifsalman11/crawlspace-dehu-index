@@ -388,5 +388,35 @@
     "aham_p": 70,
     "bar_sqft": 2990,
     "date": "2026-11-16"
+  },
+  {
+    "dehu_name": "Do Crawl Spaces Need Dehumidifiers",
+    "slug": "do-crawl-spaces-need-dehumidifiers-dehumidifier-vapor-barrier-calculator",
+    "title": "Do Crawl Spaces Need Dehumidifiers Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Do Crawl Spaces Need Dehumidifiers.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-16"
+  },
+  {
+    "dehu_name": "Alorair Sentinel Hd55",
+    "slug": "alorair-sentinel-hd55-dehumidifier-vapor-barrier-calculator",
+    "title": "Alorair Sentinel Hd55 Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Alorair Sentinel Hd55.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-16"
+  },
+  {
+    "dehu_name": "Alorair Sentinel Hdi90",
+    "slug": "alorair-sentinel-hdi90-dehumidifier-vapor-barrier-calculator",
+    "title": "Alorair Sentinel Hdi90 Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Alorair Sentinel Hdi90.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-16"
   }
 ]
