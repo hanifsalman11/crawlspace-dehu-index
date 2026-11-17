@@ -418,5 +418,35 @@
     "aham_p": 70,
     "bar_sqft": 2990,
     "date": "2026-11-16"
+  },
+  {
+    "dehu_name": "Alorair Sentinel Hd35P",
+    "slug": "alorair-sentinel-hd35p-dehumidifier-vapor-barrier-calculator",
+    "title": "Alorair Sentinel Hd35P Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Alorair Sentinel Hd35P.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-17"
+  },
+  {
+    "dehu_name": "Alorair Sentinel Hd55 Dehumidifier",
+    "slug": "alorair-sentinel-hd55-dehumidifier-dehumidifier-vapor-barrier-calculator",
+    "title": "Alorair Sentinel Hd55 Dehumidifier Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Alorair Sentinel Hd55 Dehumidifier.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-17"
+  },
+  {
+    "dehu_name": "Alorair Sentinel Hdi65",
+    "slug": "alorair-sentinel-hdi65-dehumidifier-vapor-barrier-calculator",
+    "title": "Alorair Sentinel Hdi65 Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Alorair Sentinel Hdi65.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-17"
   }
 ]
