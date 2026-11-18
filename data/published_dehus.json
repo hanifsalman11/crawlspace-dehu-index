@@ -478,5 +478,35 @@
     "aham_p": 70,
     "bar_sqft": 2990,
     "date": "2026-11-17"
+  },
+  {
+    "dehu_name": "Alorair Sentinel Hdi90 Dehumidifier",
+    "slug": "alorair-sentinel-hdi90-dehumidifier-dehumidifier-vapor-barrier-calculator",
+    "title": "Alorair Sentinel Hdi90 Dehumidifier Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Alorair Sentinel Hdi90 Dehumidifier.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-18"
+  },
+  {
+    "dehu_name": "Aprilaire Dehumidifier E100",
+    "slug": "aprilaire-dehumidifier-e100-dehumidifier-vapor-barrier-calculator",
+    "title": "Aprilaire Dehumidifier E100 Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Aprilaire Dehumidifier E100.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-18"
+  },
+  {
+    "dehu_name": "Aprilaire Dehumidifier E070",
+    "slug": "aprilaire-dehumidifier-e070-dehumidifier-vapor-barrier-calculator",
+    "title": "Aprilaire Dehumidifier E070 Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Aprilaire Dehumidifier E070.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-18"
   }
 ]
