@@ -508,5 +508,35 @@
     "aham_p": 70,
     "bar_sqft": 2990,
     "date": "2026-11-18"
+  },
+  {
+    "dehu_name": "Aprilaire Dehumidifier E080",
+    "slug": "aprilaire-dehumidifier-e080-dehumidifier-vapor-barrier-calculator",
+    "title": "Aprilaire Dehumidifier E080 Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Aprilaire Dehumidifier E080.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-18"
+  },
+  {
+    "dehu_name": "Aprilaire Dehumidifier Warranty",
+    "slug": "aprilaire-dehumidifier-warranty-dehumidifier-vapor-barrier-calculator",
+    "title": "Aprilaire Dehumidifier Warranty Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Aprilaire Dehumidifier Warranty.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-18"
+  },
+  {
+    "dehu_name": "Aprilaire Dehumidifier Filter",
+    "slug": "aprilaire-dehumidifier-filter-dehumidifier-vapor-barrier-calculator",
+    "title": "Aprilaire Dehumidifier Filter Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Aprilaire Dehumidifier Filter.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-18"
   }
 ]
