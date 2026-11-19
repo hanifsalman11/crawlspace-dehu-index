@@ -538,5 +538,35 @@
     "aham_p": 70,
     "bar_sqft": 2990,
     "date": "2026-11-18"
+  },
+  {
+    "dehu_name": "Aprilaire Dehumidifier Installation",
+    "slug": "aprilaire-dehumidifier-installation-dehumidifier-vapor-barrier-calculator",
+    "title": "Aprilaire Dehumidifier Installation Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Aprilaire Dehumidifier Installation.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-19"
+  },
+  {
+    "dehu_name": "Aprilaire Dehumidifier",
+    "slug": "aprilaire-dehumidifier-dehumidifier-vapor-barrier-calculator",
+    "title": "Aprilaire Dehumidifier Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Aprilaire Dehumidifier.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-19"
+  },
+  {
+    "dehu_name": "Crawl Space Vapor Barrier",
+    "slug": "crawl-space-vapor-barrier-dehumidifier-vapor-barrier-calculator",
+    "title": "Crawl Space Vapor Barrier Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Crawl Space Vapor Barrier.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-19"
   }
 ]
