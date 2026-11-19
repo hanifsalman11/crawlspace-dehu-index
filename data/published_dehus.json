@@ -568,5 +568,35 @@
     "aham_p": 70,
     "bar_sqft": 2990,
     "date": "2026-11-19"
+  },
+  {
+    "dehu_name": "Crawl Space Vapor Barrier Cost",
+    "slug": "crawl-space-vapor-barrier-cost-dehumidifier-vapor-barrier-calculator",
+    "title": "Crawl Space Vapor Barrier Cost Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Crawl Space Vapor Barrier Cost.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-19"
+  },
+  {
+    "dehu_name": "What  Vapor Barrier  Crawl Space",
+    "slug": "what-vapor-barrier-crawl-space-dehumidifier-vapor-barrier-calculator",
+    "title": "What  Vapor Barrier  Crawl Space Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for What  Vapor Barrier  Crawl Space.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-19"
+  },
+  {
+    "dehu_name": "How Much Is A Crawl Space Vapor Barrier",
+    "slug": "how-much-is-a-crawl-space-vapor-barrier-dehumidifier-vapor-barrier-calculator",
+    "title": "How Much Is A Crawl Space Vapor Barrier Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for How Much Is A Crawl Space Vapor Barrier.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-19"
   }
 ]
