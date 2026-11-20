@@ -598,5 +598,25 @@
     "aham_p": 70,
     "bar_sqft": 2990,
     "date": "2026-11-19"
+  },
+  {
+    "dehu_name": "How To Vapor Barrier Crawl Space",
+    "slug": "how-to-vapor-barrier-crawl-space-dehumidifier-vapor-barrier-calculator",
+    "title": "How To Vapor Barrier Crawl Space Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for How To Vapor Barrier Crawl Space.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-20"
+  },
+  {
+    "dehu_name": "800 Sq Ft Encapsulated Sealed Crawl Space (65% RH)",
+    "slug": "800-sq-ft-encapsulated-sealed-crawl-space-65-rh-dehumidifier-vapor-barrier-calculator",
+    "title": "800 Sq Ft Encapsulated Sealed Crawl Space (65% RH) Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (55 PPD AHAM / 39 PPD DOE / 115 PPD max), 20-Mil Reinforced Liner vapor barrier area (1,480 sq ft w/ wall & seam overlap), and 240 ft butyl tape for 800 Sq Ft Encapsulated Sealed Crawl Space (65% RH).",
+    "sqft": 800,
+    "aham_p": 55,
+    "bar_sqft": 1480,
+    "date": "2026-11-20"
   }
 ]
