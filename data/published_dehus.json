@@ -638,5 +638,15 @@
     "aham_p": 75,
     "bar_sqft": 1480,
     "date": "2026-11-21"
+  },
+  {
+    "dehu_name": "1,100 Sq Ft Encapsulated Sealed Crawl Space (65% RH)",
+    "slug": "1100-sq-ft-encapsulated-sealed-crawl-space-65-rh-dehumidifier-vapor-barrier-calculator",
+    "title": "1,100 Sq Ft Encapsulated Sealed Crawl Space (65% RH) Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (55 PPD AHAM / 39 PPD DOE / 115 PPD max), 20-Mil Reinforced Liner vapor barrier area (1,940 sq ft w/ wall & seam overlap), and 300 ft butyl tape for 1,100 Sq Ft Encapsulated Sealed Crawl Space (65% RH).",
+    "sqft": 1100,
+    "aham_p": 55,
+    "bar_sqft": 1940,
+    "date": "2026-11-21"
   }
 ]
