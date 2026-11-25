@@ -728,5 +728,35 @@
     "aham_p": 70,
     "bar_sqft": 2840,
     "date": "2026-11-25"
+  },
+  {
+    "dehu_name": "Alorair Sentinel Hd55 Reviews",
+    "slug": "alorair-sentinel-hd55-reviews-dehumidifier-vapor-barrier-calculator",
+    "title": "Alorair Sentinel Hd55 Reviews Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Alorair Sentinel Hd55 Reviews.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-25"
+  },
+  {
+    "dehu_name": "Aprilaire Dehumidifier 70",
+    "slug": "aprilaire-dehumidifier-70-dehumidifier-vapor-barrier-calculator",
+    "title": "Aprilaire Dehumidifier 70 Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (70 PPD AHAM / 50 PPD DOE / 147 PPD max), 20-Mil String-Reinforced vapor barrier area (2,990 sq ft w/ wall & seam overlap), and 420 ft butyl tape for Aprilaire Dehumidifier 70.",
+    "sqft": 1800,
+    "aham_p": 70,
+    "bar_sqft": 2990,
+    "date": "2026-11-25"
+  },
+  {
+    "dehu_name": "1,700 Sq Ft Wet Musty Crawl Space / Basement (85% RH)",
+    "slug": "1700-sq-ft-wet-musty-crawl-space-basement-85-rh-dehumidifier-vapor-barrier-calculator",
+    "title": "1,700 Sq Ft Wet Musty Crawl Space / Basement (85% RH) Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (90 PPD AHAM / 64 PPD DOE / 189 PPD max), 20-Mil Heavy Encapsulation vapor barrier area (2,840 sq ft w/ wall & seam overlap), and 400 ft butyl tape for 1,700 Sq Ft Wet Musty Crawl Space / Basement (85% RH).",
+    "sqft": 1700,
+    "aham_p": 90,
+    "bar_sqft": 2840,
+    "date": "2026-11-25"
   }
 ]
