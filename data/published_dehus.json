@@ -778,5 +778,15 @@
     "aham_p": 70,
     "bar_sqft": 3420,
     "date": "2026-11-26"
+  },
+  {
+    "dehu_name": "2,100 Sq Ft Wet Musty Crawl Space / Basement (85% RH)",
+    "slug": "2100-sq-ft-wet-musty-crawl-space-basement-85-rh-dehumidifier-vapor-barrier-calculator",
+    "title": "2,100 Sq Ft Wet Musty Crawl Space / Basement (85% RH) Pints/Day, Vapor Barrier & Encapsulation Calculator (2026)",
+    "description": "Calculate exact dehumidifier capacity (90 PPD AHAM / 64 PPD DOE / 189 PPD max), 20-Mil Heavy Encapsulation vapor barrier area (3,420 sq ft w/ wall & seam overlap), and 470 ft butyl tape for 2,100 Sq Ft Wet Musty Crawl Space / Basement (85% RH).",
+    "sqft": 2100,
+    "aham_p": 90,
+    "bar_sqft": 3420,
+    "date": "2026-11-27"
   }
 ]
